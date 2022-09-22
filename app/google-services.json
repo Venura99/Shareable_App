@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772442678220",
+    "project_id": "shareable-cf4ed",
+    "storage_bucket": "shareable-cf4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772442678220:android:18787f7664b9b1ca2e7369",
+        "android_client_info": {
+          "package_name": "com.example.me_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772442678220-aorct9dot958lv5b8jq092tk9dae9gm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYWonuaMCqxwqhRJrdC_KXN7sQlqlnc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772442678220-aorct9dot958lv5b8jq092tk9dae9gm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

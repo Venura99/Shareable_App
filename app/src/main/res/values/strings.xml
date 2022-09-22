@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Me_practice</string>
+    <string name="reg_des">Welcome to Shareableo</string>
+    <string name="sub_top">Bringing the best stories from all around the world right to your news feed.</string>
+    <string name="sub_top2">Please enter the registered email to send the instruction to create new password.</string>
+    <string name="note">Did not receive the email? Check your spam filter.</string>
+</resources>
